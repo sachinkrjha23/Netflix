@@ -37,7 +37,7 @@ Netflix-Clone/
 ├── Video 53_assets_videos_video1.m4v
 
 🎯 Live Demo
-View Live Demo:
+View Live Demo: https://sachinkrjha23.github.io/Netflix/
 
 ⚠️ Disclaimer
 This project is for educational purposes only.
